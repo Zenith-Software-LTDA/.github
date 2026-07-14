@@ -10,7 +10,7 @@ Custom software, professional websites and digital solutions designed to help bu
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/YOUR_PAGE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/zenith-software-ltda)
 
 </div>
 
@@ -48,14 +48,7 @@ Projects are built using modern technologies and engineering practices, prioriti
 
 - Cross-platform Applications
 - Business Mobile Apps
-- Customer Applications
-
-### Technical Consulting
-
-- Software Architecture
-- Infrastructure Planning
-- Cloud Deployment
-- Performance Optimization
+- Customer Applicationn
 
 ---
 
@@ -116,7 +109,7 @@ Projects are built using modern technologies and engineering practices, prioriti
 
 ---
 
-## UI & Experience
+## UI & UX
 
 - GSAP
 - Motion
@@ -148,17 +141,10 @@ Projects are built using modern technologies and engineering practices, prioriti
 
 ---
 
-# Open Source
-
-Whenever possible, Zenith Software contributes tools, templates and reusable components back to the community through open-source projects.
-
----
-
 # Contact
 
 **LinkedIn**
-
-https://linkedin.com/company/YOUR_PAGE
+https://www.linkedin.com/company/zenith-software-ltda
 
 ---
 
