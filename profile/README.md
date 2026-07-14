@@ -51,90 +51,77 @@ Projects are built using modern technologies and engineering practices, prioriti
 - Customer Applicationn
 
 ---
+
 ## Technology Stack
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p align="left">
+  <img src="./assets/tech/fastapi.svg" height="48" alt="FastAPI" />
+  <img src="./assets/tech/springboot.svg" height="48" alt="Spring Boot" />
+  <img src="./assets/tech/nodedotjs.svg" height="48" alt="Node.js" />
 </p>
-
----
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<p align="left">
+  <img src="./assets/tech/react.svg" height="48" alt="React" />
+  <img src="./assets/tech/nextdotjs.svg" height="48" alt="Next.js" />
 </p>
-
----
 
 ### Mobile
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p align="left">
+  <img src="./assets/tech/react.svg" height="48" alt="React Native" />
 </p>
 
----
+</td>
+
+<td valign="top" width="50%">
 
 ### Databases
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="left">
+  <img src="./assets/tech/postgresql.svg" height="48" alt="PostgreSQL" />
+  <img src="./assets/tech/mysql.svg" height="48" alt="MySQL" />
+  <img src="./assets/tech/mongodb.svg" height="48" alt="MongoDB" />
 </p>
-
----
 
 ### Infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<p align="left">
+  <img src="./assets/tech/aws.svg" height="48" alt="AWS" />
+  <img src="./assets/tech/vercel.svg" height="48" alt="Vercel" />
+  <img src="./assets/tech/supabase.svg" height="48" alt="Supabase" />
+  <img src="./assets/tech/docker.svg" height="48" alt="Docker" />
+  <img src="./assets/tech/nginx.svg" height="48" alt="NGINX" />
 </p>
-
----
 
 ### UI / UX
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<p align="left">
+  <img src="./assets/tech/tailwindcss.svg" height="48" alt="Tailwind CSS" />
+  <img src="./assets/tech/greensock.svg" height="48" alt="GSAP" />
+  <img src="./assets/tech/framer.svg" height="48" alt="Motion" />
+  <img src="./assets/tech/threedotjs.svg" height="48" alt="Three.js" />
 </p>
-
----
 
 ### Design
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity_Designer-134881?style=for-the-badge&logo=affinitydesigner&logoColor=white" />
+<p align="left">
+  <img src="./assets/tech/figma.svg" height="48" alt="Figma" />
+  <img src="./assets/tech/affinitydesigner.svg" height="48" alt="Affinity Designer" />
+  <img src="./assets/tech/blender.svg" height="48" alt="Blender" />
+  <img src="./assets/tech/canva.svg" height="48" alt="Canva" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
