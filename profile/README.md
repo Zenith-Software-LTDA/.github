@@ -6,7 +6,13 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/zenith-software-ltda)
+<p align="center">
+
+<a href="https://www.linkedin.com/company/zenith-software-ltda">
+<img src="https://img.shields.io/badge/Follow_Zenith_on_LinkedIn-00a4ac?style=for-the-badge&logo=linkedin&logoColor=001C1E" />
+</a>
+
+</p>
 
 </div>
 
@@ -24,29 +30,18 @@ Projects are built using modern technologies and engineering practices, prioriti
   <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
 </p>
 
-# Services
+## Services
 
-### Web Development
+<div align="center">
 
-- Landing Pages
-- Corporate Websites
-- Multi-page Websites
-- Custom Web Solutions
-
-### Software Development
-
-- Business Applications
-- Internal Management Systems
-- SaaS Products
-- Dashboards
-- Workflow Automation
-- Administrative Panels
-
-### Mobile Development
-
-- Cross-platform Applications
-- Business Mobile Apps
-- Customer Applicationn
+| 🌐 Web Development | ⚙️ Software Development | 📱 Mobile Development |
+|:------------------|:------------------------|:-----------------------|
+| Landing Pages | Business Applications | Cross-platform Apps |
+| Corporate Websites | SaaS Platforms | Android |
+| Multi-page Websites | Internal Systems | iOS |
+| SEO Optimization | Dashboards | React Native |
+| Responsive Design | Workflow Automation | Customer Apps |
+| Custom Solutions | Administrative Panels | Business Tools |
 
 <p align="center">
   <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
@@ -54,74 +49,88 @@ Projects are built using modern technologies and engineering practices, prioriti
 
 ## Technology Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### Languages
+
+<p align="left">
+  <img src="./assets/tech/python.svg" height="46" alt="Python" />
+  <img src="./assets/tech/java.svg" height="46" alt="Java" />
+  <img src="./assets/tech/javascript.svg" height="46" alt="JavaScript" />
+  <img src="./assets/tech/typescript.svg" height="46" alt="TypeScript" />
+  <img src="./assets/tech/c.svg" height="46" alt="C" />
+  <img src="./assets/tech/cplusplus.svg" height="46" alt="C++" />
+  <img src="./assets/tech/csharp.svg" height="46" alt="C#" />
+</p>
+
+---
 
 ### Backend
 
 <p align="left">
-  <img src="./assets/tech/fastapi.svg" height="48" alt="FastAPI" />
-  <img src="./assets/tech/springboot.svg" height="48" alt="Spring Boot" />
-  <img src="./assets/tech/nodedotjs.svg" height="48" alt="Node.js" />
+  <img src="./assets/tech/fastapi.svg" height="46" alt="FastAPI" />
+  <img src="./assets/tech/springboot.svg" height="46" alt="Spring Boot" />
+  <img src="./assets/tech/nodedotjs.svg" height="46" alt="Node.js" />
 </p>
+
+---
 
 ### Frontend
 
 <p align="left">
-  <img src="./assets/tech/react.svg" height="48" alt="React" />
-  <img src="./assets/tech/nextdotjs.svg" height="48" alt="Next.js" />
+  <img src="./assets/tech/react.svg" height="46" alt="React" />
+  <img src="./assets/tech/nextdotjs.svg" height="46" alt="Next.js" />
 </p>
+
+---
 
 ### Mobile
 
 <p align="left">
-  <img src="./assets/tech/reactnt.svg" height="48" alt="React Native" />
+  <img src="./assets/tech/reactnative.svg" height="46" alt="React Native" />
 </p>
 
-</td>
-
-<td valign="top" width="50%">
+---
 
 ### Databases
 
 <p align="left">
-  <img src="./assets/tech/postgresql.svg" height="48" alt="PostgreSQL" />
-  <img src="./assets/tech/mysql.svg" height="48" alt="MySQL" />
-  <img src="./assets/tech/mongodb.svg" height="48" alt="MongoDB" />
+  <img src="./assets/tech/postgresql.svg" height="46" alt="PostgreSQL" />
+  <img src="./assets/tech/mysql.svg" height="46" alt="MySQL" />
+  <img src="./assets/tech/mongodb.svg" height="46" alt="MongoDB" />
 </p>
+
+---
 
 ### Infrastructure
 
 <p align="left">
-  <img src="./assets/tech/aws.svg" height="48" alt="AWS" />
-  <img src="./assets/tech/vercel.svg" height="48" alt="Vercel" />
-  <img src="./assets/tech/supabase.svg" height="48" alt="Supabase" />
-  <img src="./assets/tech/docker.svg" height="48" alt="Docker" />
-  <img src="./assets/tech/nginx.svg" height="48" alt="NGINX" />
+  <img src="./assets/tech/aws.svg" height="46" alt="AWS" />
+  <img src="./assets/tech/vercel.svg" height="46" alt="Vercel" />
+  <img src="./assets/tech/supabase.svg" height="46" alt="Supabase" />
+  <img src="./assets/tech/docker.svg" height="46" alt="Docker" />
+  <img src="./assets/tech/nginx.svg" height="46" alt="NGINX" />
 </p>
+
+---
 
 ### UI / UX
 
 <p align="left">
-  <img src="./assets/tech/tailwindcss.svg" height="48" alt="Tailwind CSS" />
-  <img src="./assets/tech/greensock.svg" height="48" alt="GSAP" />
-  <img src="./assets/tech/framer.svg" height="48" alt="Motion" />
-  <img src="./assets/tech/threedotjs.svg" height="48" alt="Three.js" />
+  <img src="./assets/tech/tailwindcss.svg" height="46" alt="Tailwind CSS" />
+  <img src="./assets/tech/greensock.svg" height="46" alt="GSAP" />
+  <img src="./assets/tech/framer.svg" height="46" alt="Motion" />
+  <img src="./assets/tech/threedotjs.svg" height="46" alt="Three.js" />
 </p>
+
+---
 
 ### Design
 
 <p align="left">
-  <img src="./assets/tech/figma.svg" height="48" alt="Figma" />
-  <img src="./assets/tech/affinitydesigner.svg" height="48" alt="Affinity Designer" />
-  <img src="./assets/tech/blender.svg" height="48" alt="Blender" />
-  <img src="./assets/tech/canva.svg" height="48" alt="Canva" />
+  <img src="./assets/tech/figma.svg" height="46" alt="Figma" />
+  <img src="./assets/tech/affinitydesigner.svg" height="46" alt="Affinity Designer" />
+  <img src="./assets/tech/blender.svg" height="46" alt="Blender" />
+  <img src="./assets/tech/canva.svg" height="46" alt="Canva" />
 </p>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
@@ -148,15 +157,6 @@ Projects are built using modern technologies and engineering practices, prioriti
 - Mobile Applications
 - Internal Tools
 - Workflow Automation
-
-<p align="center">
-  <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
-</p>
-
-# Contact
-
-**LinkedIn**
-https://www.linkedin.com/company/zenith-software-ltda
 
 <p align="center">
   <img src="./assets/footer-banner.png" alt="Zenith Software footer Banner" width="100%">
