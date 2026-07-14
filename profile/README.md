@@ -49,87 +49,165 @@ Projects are built using modern technologies and engineering practices, prioriti
 
 ## Technology Stack
 
-### Languages
-
-<p align="left">
-  <img src="./assets/tech/python.svg" height="46" alt="Python" />
-  <img src="./assets/tech/java.svg" height="46" alt="Java" />
-  <img src="./assets/tech/javascript.svg" height="46" alt="JavaScript" />
-  <img src="./assets/tech/typescript.svg" height="46" alt="TypeScript" />
-  <img src="./assets/tech/c.svg" height="46" alt="C" />
-  <img src="./assets/tech/cplusplus.svg" height="46" alt="C++" />
-  <img src="./assets/tech/csharp.svg" height="46" alt="C#" />
-</p>
-
----
-
 ### Backend
 
-<p align="left">
-  <img src="./assets/tech/fastapi.svg" height="46" alt="FastAPI" />
-  <img src="./assets/tech/springboot.svg" height="46" alt="Spring Boot" />
-  <img src="./assets/tech/nodedotjs.svg" height="46" alt="Node.js" />
+<p align="center">
+
+<img src="./assets/tech/fastapi.svg" height="64" alt="FastAPI" />
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/springboot-light.svg">
+  <img src="./assets/tech/springboot.svg" height="64" alt="Spring Boot">
+</picture>
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/nodedotjs-light.svg">
+  <img src="./assets/tech/nodedotjs.svg" height="64" alt="Node.js">
+</picture>
+
 </p>
 
 ---
 
 ### Frontend
 
-<p align="left">
-  <img src="./assets/tech/react.svg" height="46" alt="React" />
-  <img src="./assets/tech/nextdotjs.svg" height="46" alt="Next.js" />
+<p align="center">
+
+<img src="./assets/tech/react.svg" height="64" alt="React" />
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/nextdotjs-light.svg">
+  <img src="./assets/tech/nextdotjs.svg" height="64" alt="Next.js">
+</picture>
+
 </p>
 
 ---
 
 ### Mobile
 
-<p align="left">
-  <img src="./assets/tech/reactnative.svg" height="46" alt="React Native" />
+<p align="center">
+
+<img src="./assets/tech/reactnt.svg" height="64" alt="React Native" />
+
 </p>
 
 ---
 
 ### Databases
 
-<p align="left">
-  <img src="./assets/tech/postgresql.svg" height="46" alt="PostgreSQL" />
-  <img src="./assets/tech/mysql.svg" height="46" alt="MySQL" />
-  <img src="./assets/tech/mongodb.svg" height="46" alt="MongoDB" />
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/postgresql-light.svg">
+  <img src="./assets/tech/postgresql.svg" height="64" alt="PostgreSQL">
+</picture>
+
+&nbsp;&nbsp;
+
+<img src="./assets/tech/mysql.svg" height="64" alt="MySQL" />
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/mongodb-light.svg">
+  <img src="./assets/tech/mongodb.svg" height="64" alt="MongoDB">
+</picture>
+
 </p>
 
 ---
 
 ### Infrastructure
 
-<p align="left">
-  <img src="./assets/tech/aws.svg" height="46" alt="AWS" />
-  <img src="./assets/tech/vercel.svg" height="46" alt="Vercel" />
-  <img src="./assets/tech/supabase.svg" height="46" alt="Supabase" />
-  <img src="./assets/tech/docker.svg" height="46" alt="Docker" />
-  <img src="./assets/tech/nginx.svg" height="46" alt="NGINX" />
+<p align="center">
+
+<img src="./assets/tech/aws.svg" height="64" alt="AWS" />
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/vercel-light.svg">
+  <img src="./assets/tech/vercel.svg" height="64" alt="Vercel">
+</picture>
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/supabase-light.svg">
+  <img src="./assets/tech/supabase.svg" height="64" alt="Supabase">
+</picture>
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/docker-light.svg">
+  <img src="./assets/tech/docker.svg" height="64" alt="Docker">
+</picture>
+
+&nbsp;&nbsp;
+
+<img src="./assets/tech/nginx.svg" height="64" alt="NGINX" />
+
 </p>
 
 ---
 
 ### UI / UX
 
-<p align="left">
-  <img src="./assets/tech/tailwindcss.svg" height="46" alt="Tailwind CSS" />
-  <img src="./assets/tech/greensock.svg" height="46" alt="GSAP" />
-  <img src="./assets/tech/framer.svg" height="46" alt="Motion" />
-  <img src="./assets/tech/threedotjs.svg" height="46" alt="Three.js" />
+<p align="center">
+
+<img src="./assets/tech/tailwindcss.svg" height="64" alt="Tailwind CSS" />
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/greensock-light.svg">
+  <img src="./assets/tech/greensock.svg" height="64" alt="GSAP">
+</picture>
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/framer-light.svg">
+  <img src="./assets/tech/framer.svg" height="64" alt="Motion">
+</picture>
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/threedotjs-light.svg">
+  <img src="./assets/tech/threedotjs.svg" height="64" alt="Three.js">
+</picture>
+
 </p>
 
 ---
 
 ### Design
 
-<p align="left">
-  <img src="./assets/tech/figma.svg" height="46" alt="Figma" />
-  <img src="./assets/tech/affinitydesigner.svg" height="46" alt="Affinity Designer" />
-  <img src="./assets/tech/blender.svg" height="46" alt="Blender" />
-  <img src="./assets/tech/canva.svg" height="46" alt="Canva" />
+<p align="center">
+
+<img src="./assets/tech/figma.svg" height="64" alt="Figma" />
+
+&nbsp;&nbsp;
+
+<img src="./assets/tech/affinitydesigner.svg" height="64" alt="Affinity Designer" />
+
+&nbsp;&nbsp;
+
+<img src="./assets/tech/blender.svg" height="64" alt="Blender" />
+
+&nbsp;&nbsp;
+
+<img src="./assets/tech/canva.svg" height="64" alt="Canva" />
+
 </p>
 
 <p align="center">
