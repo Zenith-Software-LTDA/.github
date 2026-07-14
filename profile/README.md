@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/software/software.png" width="120">
-
-# Zenith Software
-
-### Modern Software Engineering for Real Businesses
-
-Custom software, professional websites and digital solutions designed to help businesses streamline operations, strengthen their online presence and grow with reliable technology.
+<p align="center">
+  <img src="./assets/hero-banner.png" alt="Zenith Software Hero Banner" width="100%">
+</p>
 
 <br>
 
@@ -24,7 +20,9 @@ Our goal is to provide businesses with software that solves real operational pro
 
 Projects are built using modern technologies and engineering practices, prioritizing performance, security and maintainability from day one.
 
----
+<p align="center">
+  <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
+</p>
 
 # Services
 
@@ -50,7 +48,9 @@ Projects are built using modern technologies and engineering practices, prioriti
 - Business Mobile Apps
 - Customer Applicationn
 
----
+<p align="center">
+  <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
+</p>
 
 ## Technology Stack
 
@@ -76,7 +76,7 @@ Projects are built using modern technologies and engineering practices, prioriti
 ### Mobile
 
 <p align="left">
-  <img src="./assets/tech/react.svg" height="48" alt="React Native" />
+  <img src="./assets/tech/reactnt.svg" height="48" alt="React Native" />
 </p>
 
 </td>
@@ -123,7 +123,9 @@ Projects are built using modern technologies and engineering practices, prioriti
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
+</p>
 
 # Engineering Principles
 
@@ -147,19 +149,15 @@ Projects are built using modern technologies and engineering practices, prioriti
 - Internal Tools
 - Workflow Automation
 
----
+<p align="center">
+  <img src="./assets/brand-banner.png" alt="Zenith Software Brand Banner" width="100%">
+</p>
 
 # Contact
 
 **LinkedIn**
 https://www.linkedin.com/company/zenith-software-ltda
 
----
-
-<div align="center">
-
-**Zenith Software**
-
-Building reliable software for modern businesses.
-
-</div>
+<p align="center">
+  <img src="./assets/footer-banner.png" alt="Zenith Software footer Banner" width="100%">
+</p>
